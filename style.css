@@ -1,0 +1,24 @@
+body{
+    width: 300px;
+    height: 50%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+p{
+    display: inner-flex;
+    margin: auto 0px;
+    font-size:24px;
+    color: white;
+    border-radius: 37px;
+    border: 2px solid royalblue ;
+    padding: 70px;
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-size: 331px 368px;
+
+    
+}
